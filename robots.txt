@@ -1,0 +1,7 @@
+# Under construction: keep search engines out until the real site replaces this page.
+# At launch, change to:
+#   User-agent: *
+#   Allow: /
+#   Sitemap: https://<domain>/sitemap.xml
+User-agent: *
+Disallow: /
